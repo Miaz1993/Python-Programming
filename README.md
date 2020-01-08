@@ -1,2 +1,3 @@
 # Python-Programming
-algorithm practice
+1) algorithm practice
+2) Pandas, Numpy, Data structure
